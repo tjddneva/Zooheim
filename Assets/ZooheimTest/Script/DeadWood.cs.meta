@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7e662b9681de1cf44a94fe35e3fa5c70
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WoodPrefab: {fileID: 1130959867764666, guid: 81bce50924cffc644ae62c5a3c5c4192, type: 3}
+  - WoodParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

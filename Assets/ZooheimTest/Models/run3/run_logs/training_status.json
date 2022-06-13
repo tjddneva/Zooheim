@@ -1,0 +1,227 @@
+{
+    "GiraffeBehavior": {
+        "checkpoints": [
+            {
+                "steps": 82527,
+                "file_path": "results\\run3\\GiraffeBehavior\\GiraffeBehavior-82527.onnx",
+                "reward": 140.0421986579895,
+                "creation_time": 1654833212.0779,
+                "auxillary_file_paths": [
+                    "results\\run3\\GiraffeBehavior\\GiraffeBehavior-82527.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 82527,
+            "file_path": "results\\run3\\GiraffeBehavior.onnx",
+            "reward": 140.0421986579895,
+            "creation_time": 1654833212.0779,
+            "auxillary_file_paths": [
+                "results\\run3\\GiraffeBehavior\\GiraffeBehavior-82527.pt"
+            ]
+        }
+    },
+    "DeerFBehavior": {
+        "checkpoints": [
+            {
+                "steps": 151091,
+                "file_path": "results\\run3\\DeerFBehavior\\DeerFBehavior-151091.onnx",
+                "reward": 95.12932891845703,
+                "creation_time": 1654833213.0483701,
+                "auxillary_file_paths": [
+                    "results\\run3\\DeerFBehavior\\DeerFBehavior-151091.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 151091,
+            "file_path": "results\\run3\\DeerFBehavior.onnx",
+            "reward": 95.12932891845703,
+            "creation_time": 1654833213.0483701,
+            "auxillary_file_paths": [
+                "results\\run3\\DeerFBehavior\\DeerFBehavior-151091.pt"
+            ]
+        }
+    },
+    "LionBehavior": {
+        "checkpoints": [
+            {
+                "steps": 59882,
+                "file_path": "results\\run3\\LionBehavior\\LionBehavior-59882.onnx",
+                "reward": 24.032320940936053,
+                "creation_time": 1654833213.5310383,
+                "auxillary_file_paths": [
+                    "results\\run3\\LionBehavior\\LionBehavior-59882.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 59882,
+            "file_path": "results\\run3\\LionBehavior.onnx",
+            "reward": 24.032320940936053,
+            "creation_time": 1654833213.5310383,
+            "auxillary_file_paths": [
+                "results\\run3\\LionBehavior\\LionBehavior-59882.pt"
+            ]
+        }
+    },
+    "RabbitFBehavior": {
+        "checkpoints": [
+            {
+                "steps": 187513,
+                "file_path": "results\\run3\\RabbitFBehavior\\RabbitFBehavior-187513.onnx",
+                "reward": 325.46022669474286,
+                "creation_time": 1654833214.0308526,
+                "auxillary_file_paths": [
+                    "results\\run3\\RabbitFBehavior\\RabbitFBehavior-187513.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 187513,
+            "file_path": "results\\run3\\RabbitFBehavior.onnx",
+            "reward": 325.46022669474286,
+            "creation_time": 1654833214.0308526,
+            "auxillary_file_paths": [
+                "results\\run3\\RabbitFBehavior\\RabbitFBehavior-187513.pt"
+            ]
+        }
+    },
+    "GiraffeFBehavior": {
+        "checkpoints": [
+            {
+                "steps": 81659,
+                "file_path": "results\\run3\\GiraffeFBehavior\\GiraffeFBehavior-81659.onnx",
+                "reward": 316.9774589538574,
+                "creation_time": 1654833214.9171276,
+                "auxillary_file_paths": [
+                    "results\\run3\\GiraffeFBehavior\\GiraffeFBehavior-81659.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 81659,
+            "file_path": "results\\run3\\GiraffeFBehavior.onnx",
+            "reward": 316.9774589538574,
+            "creation_time": 1654833214.9171276,
+            "auxillary_file_paths": [
+                "results\\run3\\GiraffeFBehavior\\GiraffeFBehavior-81659.pt"
+            ]
+        }
+    },
+    "WolfBehavior": {
+        "checkpoints": [
+            {
+                "steps": 88547,
+                "file_path": "results\\run3\\WolfBehavior\\WolfBehavior-88547.onnx",
+                "reward": -31.777702085433468,
+                "creation_time": 1654833215.9493551,
+                "auxillary_file_paths": [
+                    "results\\run3\\WolfBehavior\\WolfBehavior-88547.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 88547,
+            "file_path": "results\\run3\\WolfBehavior.onnx",
+            "reward": -31.777702085433468,
+            "creation_time": 1654833215.9493551,
+            "auxillary_file_paths": [
+                "results\\run3\\WolfBehavior\\WolfBehavior-88547.pt"
+            ]
+        }
+    },
+    "WolfFBehavior": {
+        "checkpoints": [
+            {
+                "steps": 87418,
+                "file_path": "results\\run3\\WolfFBehavior\\WolfFBehavior-87418.onnx",
+                "reward": -31.90734440088272,
+                "creation_time": 1654833217.0803885,
+                "auxillary_file_paths": [
+                    "results\\run3\\WolfFBehavior\\WolfFBehavior-87418.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 87418,
+            "file_path": "results\\run3\\WolfFBehavior.onnx",
+            "reward": -31.90734440088272,
+            "creation_time": 1654833217.0803885,
+            "auxillary_file_paths": [
+                "results\\run3\\WolfFBehavior\\WolfFBehavior-87418.pt"
+            ]
+        }
+    },
+    "RabbitBehavior": {
+        "checkpoints": [
+            {
+                "steps": 183386,
+                "file_path": "results\\run3\\RabbitBehavior\\RabbitBehavior-183386.onnx",
+                "reward": 255.2348111924671,
+                "creation_time": 1654833217.6354356,
+                "auxillary_file_paths": [
+                    "results\\run3\\RabbitBehavior\\RabbitBehavior-183386.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 183386,
+            "file_path": "results\\run3\\RabbitBehavior.onnx",
+            "reward": 255.2348111924671,
+            "creation_time": 1654833217.6354356,
+            "auxillary_file_paths": [
+                "results\\run3\\RabbitBehavior\\RabbitBehavior-183386.pt"
+            ]
+        }
+    },
+    "LionFBehavior": {
+        "checkpoints": [
+            {
+                "steps": 61859,
+                "file_path": "results\\run3\\LionFBehavior\\LionFBehavior-61859.onnx",
+                "reward": 4.176173579308294,
+                "creation_time": 1654833218.117102,
+                "auxillary_file_paths": [
+                    "results\\run3\\LionFBehavior\\LionFBehavior-61859.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 61859,
+            "file_path": "results\\run3\\LionFBehavior.onnx",
+            "reward": 4.176173579308294,
+            "creation_time": 1654833218.117102,
+            "auxillary_file_paths": [
+                "results\\run3\\LionFBehavior\\LionFBehavior-61859.pt"
+            ]
+        }
+    },
+    "DeerBehavior": {
+        "checkpoints": [
+            {
+                "steps": 139982,
+                "file_path": "results\\run3\\DeerBehavior\\DeerBehavior-139982.onnx",
+                "reward": 247.64374783164575,
+                "creation_time": 1654833218.585899,
+                "auxillary_file_paths": [
+                    "results\\run3\\DeerBehavior\\DeerBehavior-139982.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 139982,
+            "file_path": "results\\run3\\DeerBehavior.onnx",
+            "reward": 247.64374783164575,
+            "creation_time": 1654833218.585899,
+            "auxillary_file_paths": [
+                "results\\run3\\DeerBehavior\\DeerBehavior-139982.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.1+cu113"
+    }
+}
